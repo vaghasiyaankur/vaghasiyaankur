@@ -14,7 +14,7 @@ Hacing more than 6 years of experience developing web apps. As for my soft skill
 *   ⚡  Self-motivated, self-managed developer with a great passion for web techs. Always open to learning new things! And what's most important - I won't let you down!
 
 ## 🌐 Let's Get Connected:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankti-shah-a85270170) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DeCoder22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShahPankti2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](ankur-vaghasiya-14a821140) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ankurvaghasiya8) 
 
 ### Skills 
 <p align="left">
