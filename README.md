@@ -12,6 +12,10 @@ Hacing more than 6 years of experience developing web apps. As for my soft skill
 *   🚀  I'm currently working on [Redro Restaurant Solution](http://redro.ch)
 *   🤝  I'm open to collaborating on Interesting projects and assist you with necessary solution.
 *   ⚡  Self-motivated, self-managed developer with a great passion for web techs. Always open to learning new things! And what's most important - I won't let you down!
+
+## 🌐 Let's Get Connected:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankti-shah-a85270170) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DeCoder22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShahPankti2) 
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
