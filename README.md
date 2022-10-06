@@ -11,10 +11,8 @@ Hacing more than 6 years of experience developing web apps. As for my soft skill
 *   ✉️  You can contact me at [ankurvaghasiya21@gmail.com](mailto:ankurvaghasiya21@gmail.com)
 *   🚀  I'm currently working on [Redro Restaurant Solution](http://redro.ch)
 *   🤝  I'm open to collaborating on Interesting projects and assist you with necessary solution.
-*   ⚡  Self-motivated, self-managed developer with a great passion for web techs. Always open to learning new things! And what's most important - I won't let you down!<a href="https://www.twitter.com/ankurvaghasiya8" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/ankurvaghasiya8?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/vaghasiyaankur" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/vaghasiyaankur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   ⚡  Self-motivated, self-managed developer with a great passion for web techs. Always open to learning new things! And what's most important - I won't let you down!
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
