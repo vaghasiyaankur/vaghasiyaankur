@@ -11,7 +11,10 @@ Hacing more than 6 years of experience developing web apps. As for my soft skill
 *   ✉️  You can contact me at [ankurvaghasiya21@gmail.com](mailto:ankurvaghasiya21@gmail.com)
 *   🚀  I'm currently working on [Redro Restaurant Solution](http://redro.ch)
 *   🤝  I'm open to collaborating on Interesting projects and assist you with necessary solution.
-*   ⚡  Self-motivated, self-managed developer with a great passion for web techs. Always open to learning new things! And what's most important - I won't let you down!### Skills 
+*   ⚡  Self-motivated, self-managed developer with a great passion for web techs. Always open to learning new things! And what's most important - I won't let you down!<a href="https://www.twitter.com/ankurvaghasiya8" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/ankurvaghasiya8?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/vaghasiyaankur" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/vaghasiyaankur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -33,4 +36,17 @@ Hacing more than 6 years of experience developing web apps. As for my soft skill
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-               
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/vaghasiyaankur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/vaghasiya_ankur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/ankurvaghasiya8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/vaghasiyaankur"><img src="https://github-readme-stats.vercel.app/api?username=vaghasiyaankur&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vaghasiyaankur's GitHub stats" /></a><a
+                      href="http://www.github.com/vaghasiyaankur"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=vaghasiyaankur&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/vaghasiyaankur"><img src="https://activity-graph.herokuapp.com/graph?username=vaghasiyaankur&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/vaghasiyaankur" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghasiyaankur&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
